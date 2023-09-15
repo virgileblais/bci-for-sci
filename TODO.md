@@ -22,7 +22,8 @@
   - [ ] feat(html): translate to portuguese and add portuguese meta tags
 
 ## Hero Section
-- [ ] feat(html, css): create containers for hero section
+- [X] feat(html, css): create containers for hero section
+- [ ] feat(html, css): modify hero section styling to accord with mobile mockup
 - [ ] feat(html, css, png): add content to hero section
 
 ## Resource Section
@@ -30,10 +31,10 @@
   - [ ] feat(css): add content to resource sub-sections
 
 ## Header
-- [ ] feat(html, css): add a nav header
+- [ ] feat(html, css): modify a nav bar to accord with mobile mockup
 
 ## Footer
-- [ ] feat(html, css): add a footer
+- [X] feat(html, css): modify a footer to harmonize with mobile mockup
 
 ## Responsive Design
 
