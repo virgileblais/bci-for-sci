@@ -8,8 +8,8 @@
   - [X] confirm open license for brain vector: https://www.svgrepo.com/svg/441585/brain
   - [X] confirm open license for arrow vector: https://www.onlinewebfonts.com/icon/310101
   - [X] add licensing info and artist credit for vectors
+  - [X] feat(html): create general layout and containers
   - [ ] feat(html): add meta tags
-  - [ ] feat(html): create general layout and containers
   - [ ] feat(xcf, png): create favicon
   - [ ] feat(html): add favicon
   - [ ] feat(xcf, png): create og image
