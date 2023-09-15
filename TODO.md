@@ -2,7 +2,7 @@
 
 ## General Tasks
   - [ ] feat(xcf, png): create mobile webpage mockup
-  - [X] feat(svg): find vectors for hero section
+  - [X] feat(svg): added vectors for hero section
   - [ ] confirm open license for spinal cord vector: https://vectorportal.com/vector/spine-vector-image/8460
   - [ ] confirm open license for cog wheel vector: https://publicdomainvectors.org/en/free-clipart/Black-interconnected-cogwheels-vector-image/26972.html
   - [ ] confirm open license for brain vector: https://www.svgrepo.com/svg/441585/brain
