@@ -1,4 +1,5 @@
 # TODO
+- Fix content section's overflow into the hero section
 
 ## General Tasks
   - [X] feat(xcf, png): create mobile webpage mockup
@@ -23,28 +24,46 @@
 
 ## Hero Section
 - [X] feat(html, css): create containers for hero section
-- [ ] feat(html, css): modify hero section styling to accord with mobile mockup
-- [ ] feat(html, css, png): add content to hero section
+- [X] feat(html, css, png): add vectors to hero section
+- [X] fix(svg): remove whitespace around brain vector
+- [X] feat(html, css): modify hero section styling to accord with mobile mockup
+- [ ] feat(html, css): add introductory hero text
 
 ## Resource Section
   - [ ] feat(css): create containers for resource sub-sections
   - [ ] feat(css): add content to resource sub-sections
+    - what is bci?
+      - https://www.youtube.com/watch?v=0nlE3v_DiQw
+    - mind-reading: how can the brain be 'read'? https://www.youtube.com/watch?v=hv7wYRndWpo
+    - [ ] feat(mp4): create youtube video on "is it legit?"
+      - Barack Obama on Stentrode Device: https://www.youtube.com/watch?v=gNhKTGCOglE
+    - [ ] feat(mp4): create BCI types
+      - Microelectrode arrays (MEAs): Neuralink () 
+      - Endovascular: Stentrode (https://www.youtube.com/watch?v=NZlIL0iI1Sg)
+      - Electrocorticography (ECoG):
+      - Electroencephalography (EEG):
+      - Magnetoencephalography (MEG):
+      - Magnetic Resonance Imaging (MRI):
+
 
 ## Header
-- [ ] feat(html, css): modify a nav bar to accord with mobile mockup
+- [X] feat(html, css): adjust nav bar styling to accord with mobile mockup
+- [ ] feat(html, css): create "Get help from Virgile" email button
+- [ ] feat(html, css): create "Help Promote" email button
 
 ## Footer
 - [X] feat(html, css): modify a footer to harmonize with mobile mockup
+
+## UX
+- [ ] create newsletter to notify individuals about BCI opportunities and technological advancements
+- [ ] feat(?): create newsletter
+- [ ] feat(html, css): add newsletter signup form to newsletter button
+- [ ] feat(html, css): create newsletter signup form popup
 
 ## Responsive Design
 
 - [ ] feat(css): add tablet breakpoint
 - [ ] feat(css): add desktop breakpoint
-
-## Outreach
-- [ ] create "Get help from Virgile" button
-- [ ] create "newsletter"
-- [ ] create "newsletter" popup, non-obtrusive
 
 - [ ] publish linked in post presenting website
   - "Those of of you who have known me for a while know that I have been following the development of Brain Computer Interface (BCI) technologies since my days in middle school.
@@ -64,4 +83,3 @@
   - "As one of my favorite researchers, Dr. Zsolnai-Fehér, always says "What a time to be alive!"
 
 - [ ] reach out to ljudmila for promotion at iCORD
-- [ ] create newsletter to notify individuals about BCI opportunities and technological advancements
