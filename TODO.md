@@ -35,8 +35,9 @@
 
 ## Resource Section
   - [X] feat(html, css): create containers for resource sub-sections
-  - [ ] feat(css): add placeholder videos to resource sub-sections
-  - [X] feat(css): add placeholder iamges to resource sub-sections
+  - [X] feat(html, css): add placeholder videos to resource sub-sections
+  - [ ] fix(html, css): fix placeholder video aspect ratio/overflow issue on live mobile devices
+  - [X] feat(html, css): add placeholder images to resource sub-sections
   - [ ] feat(?): create what is BCI illustration video
   - [ ] feat(?): create success stories compilation video
   - [ ] feat(?): create expandable content boxes for safety and legitimacy text contents
@@ -50,7 +51,7 @@
     - safety issues with bci
     - bci legitimacy (is this legit?)
       - Barack Obama on Stentrode Device: https://www.youtube.com/watch?v=gNhKTGCOglE
-    - bci types: invasive & non-invasive
+    - BCI types: invasive & non-invasive
       - Microelectrode arrays (MEAs): Neuralink () 
       - Endovascular: Stentrode (https://www.youtube.com/watch?v=NZlIL0iI1Sg)
       - Electrocorticography (ECoG):
