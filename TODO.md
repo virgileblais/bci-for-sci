@@ -1,5 +1,4 @@
 # TODO
-- Fix content section's overflow into the hero section
 
 ## General Tasks
   - [X] feat(xcf, png): create mobile webpage mockup
@@ -32,10 +31,17 @@
 - [X] feat(html, css, png): add vectors to hero section
 - [X] fix(svg): remove whitespace around brain vector
 - [X] feat(html, css): modify hero section styling to accord with mobile mockup
-- [ ] feat(html, css): add introductory hero text
+- [ ] feat(html, css): write and add introductory hero text
 
 ## Resource Section
   - [X] feat(html, css): create containers for resource sub-sections
+  - [ ] feat(css): add placeholder videos to resource sub-sections
+  - [X] feat(css): add placeholder iamges to resource sub-sections
+  - [ ] feat(?): create what is BCI illustration video
+  - [ ] feat(?): create success stories compilation video
+  - [ ] feat(?): create expandable content boxes for safety and legitimacy text contents
+  - [ ] feat(?): write and add safety text content
+  - [ ] feat(?): write and add legitimacy text content
   - [ ] feat(css): add content to resource sub-sections
     - what is bci?
       - https://www.youtube.com/watch?v=0nlE3v_DiQw

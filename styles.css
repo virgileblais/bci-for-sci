@@ -48,6 +48,8 @@ body {
     grid-template-rows: 1fr 3fr 3fr; */
 }
 
+
+/*HERO SECTION*/
 #hero-section {
     /* height: 35vh; */
     background-color: #8ac83f;
@@ -113,6 +115,19 @@ body {
     grid-area: 3 / 1 / 4 / 2;
 }
 
+
+/*RESOURCE SECTION*/
+.resource-container {
+    background-color: #8ac83f;
+    color: white;
+    display: grid;
+    justify-items: center;
+}
+
+.resource-container img {
+    background-color: white;
+}
+
 #resource-section {
     display: grid;
     grid-template-columns: 1fr;
@@ -121,9 +136,11 @@ body {
     padding-top: 1vh;
     padding-left: 12.5%;
     padding-right: 12.5%;
+    padding-bottom: 1vh;
     color: #8ac83f;
 }
 
+/*UNDERSTANDING BCI SECTION*/
 #understanding-bci-section {
     display: grid;
     grid-template-columns: auto auto;
@@ -156,17 +173,14 @@ body {
     grid-area: 3 / 2 / 4 / 3;
     border: 1px solid red;
 }
-
-
-
-
+/*GET INVOLVED SECTION*/
 #get-involved-section {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
     grid-template-rows: auto 1fr 1fr;
     row-gap: 1vh;
 
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #understanding-bci-title-text {
@@ -194,7 +208,7 @@ body {
 }
 
 
-
+/*FOOTER SECTION*/
 footer {
     /* position: absolute; */
     height: 3vh;
