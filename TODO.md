@@ -22,6 +22,11 @@
   - [ ] feat(html): translate to arabic and add arabic meta tags
   - [ ] feat(html): translate to portuguese and add portuguese meta tags
 
+## Header
+- [X] feat(html, css): adjust nav bar styling to accord with mobile mockup
+- [ ] feat(html, css): create "Get help from Virgile" email button
+- [ ] feat(html, css): create "Help Promote" email button
+
 ## Hero Section
 - [X] feat(html, css): create containers for hero section
 - [X] feat(html, css, png): add vectors to hero section
@@ -30,26 +35,22 @@
 - [ ] feat(html, css): add introductory hero text
 
 ## Resource Section
-  - [ ] feat(css): create containers for resource sub-sections
+  - [X] feat(html, css): create containers for resource sub-sections
   - [ ] feat(css): add content to resource sub-sections
     - what is bci?
       - https://www.youtube.com/watch?v=0nlE3v_DiQw
-    - mind-reading: how can the brain be 'read'? https://www.youtube.com/watch?v=hv7wYRndWpo
-    - [ ] feat(mp4): create youtube video on "is it legit?"
+      - mind-reading: how can the brain be 'read'? https://www.youtube.com/watch?v=hv7wYRndWpo
+    - compilation video of lives it has changed
+    - safety issues with bci
+    - bci legitimacy (is this legit?)
       - Barack Obama on Stentrode Device: https://www.youtube.com/watch?v=gNhKTGCOglE
-    - [ ] feat(mp4): create BCI types
+    - bci types: invasive & non-invasive
       - Microelectrode arrays (MEAs): Neuralink () 
       - Endovascular: Stentrode (https://www.youtube.com/watch?v=NZlIL0iI1Sg)
       - Electrocorticography (ECoG):
       - Electroencephalography (EEG):
       - Magnetoencephalography (MEG):
       - Magnetic Resonance Imaging (MRI):
-
-
-## Header
-- [X] feat(html, css): adjust nav bar styling to accord with mobile mockup
-- [ ] feat(html, css): create "Get help from Virgile" email button
-- [ ] feat(html, css): create "Help Promote" email button
 
 ## Footer
 - [X] feat(html, css): modify a footer to harmonize with mobile mockup
